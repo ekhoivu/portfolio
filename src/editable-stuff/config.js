@@ -109,18 +109,12 @@ const hobbies = {
   show: true,
   heading: "Hobbies",
   data: [
-    { name: "Guitar", image: require("../assets/img/guitar2.jpg") },
-    { name: "Low Whistle", image: require("../assets/img/whistle.jpg") },
-    { name: "Piano", image: require("../assets/img/piano.jpg") },
-    { name: "Tennis", image: require("../assets/img/tennis2.jpg") },
+    { name: "Guitar", image: require("../assets/img/guitar1.jpg") },
+    { name: "Worship", image: require("../assets/img/guitar2.jpg") },
     { name: "Football", image: require("../assets/img/football.jpg") },
-    { name: "Table Tennis", image: require("../assets/img/tt.jpg") },
-    { name: "The Last Of Us 2", image: require("../assets/img/tlou2.jpg") },
-    { name: "Elden Ring", image: require("../assets/img/elden2.jpg") },
-    { name: "Red Dead Redemption 2", image: require("../assets/img/rdr2.jpg") },
-    { name: "Hogwarts Legacy", image: require("../assets/img/hogwarts.jpg") },
-    { name: "God Of War Ragnarok", image: require("../assets/img/gowr.jpg") },
-    { name: "Sekiro", image: require("../assets/img/sekiro.jpg") },
+    { name: "Tennis", image: require("../assets/img/tennis2.jpg") },
+    { name: "Classic Novels", image: require("../assets/img/novel.jpg") },
+    { name: "Video Games", image: require("../assets/img/tlou2.jpg") },
   ],
 };
 
