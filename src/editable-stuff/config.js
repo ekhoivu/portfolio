@@ -29,7 +29,7 @@ const about = {
   imageSize: 375,
   message:
     "As a young man, I ignored the family's tech gene and pursued the business world, choosing Marketing and Finance as my future. This decision led me on a decade-long journey through more than ten cities, four countries, and three continents. It was the trip of a lifetime, filled with so many ups and downs, twists and turns, unforgettable memories, and the many wonderful people I met along the way. Years later, I am now finding my way back to my roots, pursuing my childhood dream and becoming the person I have always been destined to be. A tech man.",
-  resume: "https://drive.google.com/file/d/16da3fZykK1J_L33zVqdpcPPgMJXSyKKf/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/16mMVsN7QBTi9ppGrzsQbyB7CAG4q3sU8/view?usp=sharing",
 };
 
 const project = {
