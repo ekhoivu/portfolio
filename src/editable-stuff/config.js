@@ -174,10 +174,10 @@ const education = {
   heading: "Education",
   data: [
     {
-      school: "State University of New York at Brockport",
-      program: "Bachelor, Finance and Marketing, GPA 3.67",
-      scholarship: "Scholarship, Full Tuition and Half Board",
-      image: require("../assets/img/brockport2.jpg"),
+      school: "Seneca College",
+      program: "Computer Programming and Analysis, GPA 4.0",
+      scholarship: "",
+      image: require("../assets/img/seneca.jpg"),
     },
     {
       school: "University of Illinois at Urbana Champaign",
@@ -186,10 +186,10 @@ const education = {
       image: require("../assets/img/uiuc.jpeg"),
     },
     {
-      school: "Seneca College",
-      program: "Computer Programming and Analysis, GPA 4.0",
-      scholarship: "",
-      image: require("../assets/img/seneca.jpg"),
+      school: "State University of New York at Brockport",
+      program: "Bachelor, Finance and Marketing, GPA 3.67",
+      scholarship: "Scholarship, Full Tuition and Half Board",
+      image: require("../assets/img/brockport2.jpg"),
     },
   ],
 };
