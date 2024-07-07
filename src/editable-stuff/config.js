@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Khoi",
   middleName: "",
   lastName: "Vu",
-  message: " I am a Full-Stack Developer. ",
+  message: " I am a Full-Stack Developer. Welcome to my website. ",
   icons: [
     {
       image: "fa-github",
