@@ -11,10 +11,12 @@ import GetInTouch from "./components/home/GetInTouch.jsx";
 import Experience from "./components/home/Experience";
 import Education from "./components/home/Education.jsx";
 import Hobbies from "./components/home/Hobbies.jsx";
+import Star from "./components/home/Star.jsx";
 
 const Home = React.forwardRef((props, ref) => {
   return (
     <>
+      <Star/>
       <MainBody gradient={mainBody.gradientColors} title={`${mainBody.firstName} ${mainBody.middleName} ${mainBody.lastName}`} message={mainBody.message} icons={mainBody.icons} ref={ref} />
       {about.show && <AboutMe heading={about.heading} message={about.message} link={about.imageLink} imgSize={about.imageSize} resume={about.resume} />}
       {skills.show && <Skills heading={skills.heading} hardSkills={skills.hardSkills} toolSkills={skills.toolSkills} softSkills={skills.softSkills} />}
