@@ -132,7 +132,7 @@ const experiences = {
   data: [
     {
       role: "Full-Stack Developer",
-      company: "RBC Royal Bank of Canada",
+      company: "Royal Bank of Canada",
       image: require("../assets/img/rbc.jpg"),
       date: "Jan 2023 – Present",
     },
