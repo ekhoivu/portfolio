@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.82f81405.css",
-    "main.js": "/portfolio/static/js/main.75e76f49.js",
+    "main.js": "/portfolio/static/js/main.e7589783.js",
     "static/js/787.6f0453fb.chunk.js": "/portfolio/static/js/787.6f0453fb.chunk.js",
+    "static/media/tencent.png": "/portfolio/static/media/tencent.21211c6131c45dd2fd1a.png",
+    "static/media/axa.png": "/portfolio/static/media/axa.8c987cc53cc09a2015c4.png",
     "static/media/novel.jpg": "/portfolio/static/media/novel.af191157a4e2b7b14139.jpg",
     "static/media/tennis2.jpg": "/portfolio/static/media/tennis2.7835d7526757b222d2d3.jpg",
     "static/media/guitar1.jpg": "/portfolio/static/media/guitar1.0133226ed06f28d11933.jpg",
     "static/media/database.png": "/portfolio/static/media/database.96a6cad2c840fc659d5a.png",
     "static/media/seneca.jpg": "/portfolio/static/media/seneca.fb488d82d72c8f55905b.jpg",
+    "static/media/anta.png": "/portfolio/static/media/anta.e00b16b51020fd1889f6.png",
+    "static/media/brockport.jpg": "/portfolio/static/media/brockport.834477c4decd2c6bd384.jpg",
     "static/media/ericsson.jpg": "/portfolio/static/media/ericsson.0a5faba4e6692a04438c.jpg",
     "static/media/ibc.png": "/portfolio/static/media/ibc.c6a98c6697e617d29b18.png",
     "static/media/rbc.jpg": "/portfolio/static/media/rbc.62002db86b905a0b634c.jpg",
@@ -20,16 +24,17 @@
     "static/media/tlou2.jpg": "/portfolio/static/media/tlou2.34e8dd0c76ddcacfda17.jpg",
     "static/media/brockport2.jpg": "/portfolio/static/media/brockport2.3797d1c13fb6b6e6b093.jpg",
     "static/media/cpp.jpg": "/portfolio/static/media/cpp.84bf6fe698756717422a.jpg",
+    "static/media/ibm.jpg": "/portfolio/static/media/ibm.78bd9f97036dd40e9883.jpg",
     "static/media/portoflio.jpg": "/portfolio/static/media/portoflio.2395f19b41f216ec825a.jpg",
     "static/media/mongo.png": "/portfolio/static/media/mongo.8ede8ec56e740da4983d.png",
     "static/media/beacon.jpg": "/portfolio/static/media/beacon.2adbf158d804bc18ad06.jpg",
     "index.html": "/portfolio/index.html",
     "main.82f81405.css.map": "/portfolio/static/css/main.82f81405.css.map",
-    "main.75e76f49.js.map": "/portfolio/static/js/main.75e76f49.js.map",
+    "main.e7589783.js.map": "/portfolio/static/js/main.e7589783.js.map",
     "787.6f0453fb.chunk.js.map": "/portfolio/static/js/787.6f0453fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f81405.css",
-    "static/js/main.75e76f49.js"
+    "static/js/main.e7589783.js"
   ]
 }
